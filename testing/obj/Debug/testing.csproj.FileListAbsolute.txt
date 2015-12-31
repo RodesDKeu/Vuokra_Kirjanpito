@@ -1,0 +1,6 @@
+e:\Users\Lasse\Documents\Visual Studio 2013\Projects\Vuuorka Asunto Kirjanpito\testing\bin\Debug\testing.exe.config
+e:\Users\Lasse\Documents\Visual Studio 2013\Projects\Vuuorka Asunto Kirjanpito\testing\bin\Debug\testing.exe
+e:\Users\Lasse\Documents\Visual Studio 2013\Projects\Vuuorka Asunto Kirjanpito\testing\bin\Debug\testing.pdb
+e:\Users\Lasse\Documents\Visual Studio 2013\Projects\Vuuorka Asunto Kirjanpito\testing\obj\Debug\testing.csprojResolveAssemblyReference.cache
+e:\Users\Lasse\Documents\Visual Studio 2013\Projects\Vuuorka Asunto Kirjanpito\testing\obj\Debug\testing.exe
+e:\Users\Lasse\Documents\Visual Studio 2013\Projects\Vuuorka Asunto Kirjanpito\testing\obj\Debug\testing.pdb

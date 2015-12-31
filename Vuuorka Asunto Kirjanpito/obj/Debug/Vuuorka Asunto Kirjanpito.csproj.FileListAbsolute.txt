@@ -1,0 +1,30 @@
+c:\users\lasse\documents\visual studio 2013\Projects\Vuuorka Asunto Kirjanpito\Vuuorka Asunto Kirjanpito\bin\Debug\Vuuorka Asunto Kirjanpito.exe.config
+c:\users\lasse\documents\visual studio 2013\Projects\Vuuorka Asunto Kirjanpito\Vuuorka Asunto Kirjanpito\bin\Debug\DATA.mdf
+c:\users\lasse\documents\visual studio 2013\Projects\Vuuorka Asunto Kirjanpito\Vuuorka Asunto Kirjanpito\bin\Debug\DATA_log.ldf
+c:\users\lasse\documents\visual studio 2013\Projects\Vuuorka Asunto Kirjanpito\Vuuorka Asunto Kirjanpito\bin\Debug\Vuuorka Asunto Kirjanpito.exe
+c:\users\lasse\documents\visual studio 2013\Projects\Vuuorka Asunto Kirjanpito\Vuuorka Asunto Kirjanpito\bin\Debug\Vuuorka Asunto Kirjanpito.pdb
+c:\users\lasse\documents\visual studio 2013\Projects\Vuuorka Asunto Kirjanpito\Vuuorka Asunto Kirjanpito\obj\Debug\Vuuorka Asunto Kirjanpito.csprojResolveAssemblyReference.cache
+c:\users\lasse\documents\visual studio 2013\Projects\Vuuorka Asunto Kirjanpito\Vuuorka Asunto Kirjanpito\obj\Debug\Vuuorka_Asunto_Kirjanpito.Form1.resources
+c:\users\lasse\documents\visual studio 2013\Projects\Vuuorka Asunto Kirjanpito\Vuuorka Asunto Kirjanpito\obj\Debug\Vuuorka_Asunto_Kirjanpito.Properties.Resources.resources
+c:\users\lasse\documents\visual studio 2013\Projects\Vuuorka Asunto Kirjanpito\Vuuorka Asunto Kirjanpito\obj\Debug\Vuuorka Asunto Kirjanpito.csproj.GenerateResource.Cache
+c:\users\lasse\documents\visual studio 2013\Projects\Vuuorka Asunto Kirjanpito\Vuuorka Asunto Kirjanpito\obj\Debug\Vuuorka Asunto Kirjanpito.exe
+c:\users\lasse\documents\visual studio 2013\Projects\Vuuorka Asunto Kirjanpito\Vuuorka Asunto Kirjanpito\obj\Debug\Vuuorka Asunto Kirjanpito.pdb
+C:\Users\Lasse\Documents\Visual Studio 2013\Projects\Vuuorka Asunto Kirjanpito\Vuuorka Asunto Kirjanpito\obj\Debug\Vuuorka Asunto Kirjanpito.exe.licenses
+C:\Users\Lasse\Documents\Visual Studio 2013\Projects\Vuuorka Asunto Kirjanpito\Vuuorka Asunto Kirjanpito\obj\Debug\Vuuorka_Asunto_Kirjanpito.Kohde.resources
+e:\Users\Lasse\Documents\Visual Studio 2013\Projects\Vuuorka Asunto Kirjanpito\Vuuorka Asunto Kirjanpito\bin\Debug\Vuuorka Asunto Kirjanpito.exe.config
+e:\Users\Lasse\Documents\Visual Studio 2013\Projects\Vuuorka Asunto Kirjanpito\Vuuorka Asunto Kirjanpito\obj\Debug\Vuuorka Asunto Kirjanpito.exe
+e:\Users\Lasse\Documents\Visual Studio 2013\Projects\Vuuorka Asunto Kirjanpito\Vuuorka Asunto Kirjanpito\obj\Debug\Vuuorka Asunto Kirjanpito.pdb
+e:\Users\Lasse\Documents\Visual Studio 2013\Projects\Vuuorka Asunto Kirjanpito\Vuuorka Asunto Kirjanpito\bin\Debug\Vuuorka Asunto Kirjanpito.exe
+e:\Users\Lasse\Documents\Visual Studio 2013\Projects\Vuuorka Asunto Kirjanpito\Vuuorka Asunto Kirjanpito\bin\Debug\Vuuorka Asunto Kirjanpito.pdb
+e:\Users\Lasse\Documents\Visual Studio 2013\Projects\Vuuorka Asunto Kirjanpito\Vuuorka Asunto Kirjanpito\obj\Debug\Vuuorka Asunto Kirjanpito.csprojResolveAssemblyReference.cache
+e:\Users\Lasse\Documents\Visual Studio 2013\Projects\Vuuorka Asunto Kirjanpito\Vuuorka Asunto Kirjanpito\obj\Debug\Vuuorka_Asunto_Kirjanpito.Form1.resources
+e:\Users\Lasse\Documents\Visual Studio 2013\Projects\Vuuorka Asunto Kirjanpito\Vuuorka Asunto Kirjanpito\obj\Debug\Vuuorka_Asunto_Kirjanpito.Properties.Resources.resources
+e:\Users\Lasse\Documents\Visual Studio 2013\Projects\Vuuorka Asunto Kirjanpito\Vuuorka Asunto Kirjanpito\obj\Debug\Vuuorka Asunto Kirjanpito.csproj.GenerateResource.Cache
+e:\Users\Lasse\Documents\Visual Studio 2013\Projects\Vuuorka Asunto Kirjanpito\Vuuorka Asunto Kirjanpito\obj\Debug\Vuuorka Asunto Kirjanpito.exe.licenses
+e:\Users\Lasse\Documents\Visual Studio 2013\Projects\Vuuorka Asunto Kirjanpito\Vuuorka Asunto Kirjanpito\bin\Debug\Data\1DATA.mdf
+e:\Users\Lasse\Documents\Visual Studio 2013\Projects\Vuuorka Asunto Kirjanpito\Vuuorka Asunto Kirjanpito\bin\Debug\Data\1DATA_log.ldf
+e:\Users\Lasse\Documents\Visual Studio 2013\Projects\Vuuorka Asunto Kirjanpito\Vuuorka Asunto Kirjanpito\obj\Debug\Vuuorka_Asunto_Kirjanpito.Vuokralaiset.resources
+e:\Users\Lasse\Documents\Visual Studio 2013\Projects\Vuuorka Asunto Kirjanpito\Vuuorka Asunto Kirjanpito\obj\Debug\Vuuorka_Asunto_Kirjanpito.Vuokra_Kohde.resources
+e:\Users\Lasse\Documents\Visual Studio 2013\Projects\Vuuorka Asunto Kirjanpito\Vuuorka Asunto Kirjanpito\obj\Debug\Vuuorka_Asunto_Kirjanpito.MDIMain.resources
+e:\Users\Lasse\Documents\Visual Studio 2013\Projects\Vuuorka Asunto Kirjanpito\Vuuorka Asunto Kirjanpito\bin\Debug\testing.exe
+e:\Users\Lasse\Documents\Visual Studio 2013\Projects\Vuuorka Asunto Kirjanpito\Vuuorka Asunto Kirjanpito\bin\Debug\testing.pdb
