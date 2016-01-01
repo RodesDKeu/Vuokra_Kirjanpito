@@ -6,3 +6,13 @@ e:\Users\Lasse\Documents\Visual Studio 2013\Projects\Vuuorka Asunto Kirjanpito\L
 e:\Users\Lasse\Documents\Visual Studio 2013\Projects\Vuuorka Asunto Kirjanpito\Login\obj\Debug\Login.exe
 e:\Users\Lasse\Documents\Visual Studio 2013\Projects\Vuuorka Asunto Kirjanpito\Login\obj\Debug\Login.pdb
 e:\Users\Lasse\Documents\Visual Studio 2013\Projects\Vuuorka Asunto Kirjanpito\Login\obj\Debug\Login.Form1.resources
+e:\Users\Lasse\Documents\Visual Studio 2013\Git\Vuokra_Kirjanpito\Login\bin\Debug\Login.exe.config
+e:\Users\Lasse\Documents\Visual Studio 2013\Git\Vuokra_Kirjanpito\Login\obj\Debug\Login.exe
+e:\Users\Lasse\Documents\Visual Studio 2013\Git\Vuokra_Kirjanpito\Login\obj\Debug\Login.pdb
+e:\Users\Lasse\Documents\Visual Studio 2013\Git\Vuokra_Kirjanpito\Login\bin\Debug\Login.exe
+e:\Users\Lasse\Documents\Visual Studio 2013\Git\Vuokra_Kirjanpito\Login\bin\Debug\Login.pdb
+e:\Users\Lasse\Documents\Visual Studio 2013\Git\Vuokra_Kirjanpito\Login\obj\Debug\Login.csprojResolveAssemblyReference.cache
+e:\Users\Lasse\Documents\Visual Studio 2013\Git\Vuokra_Kirjanpito\Login\obj\Debug\Login.Form1.resources
+e:\Users\Lasse\Documents\Visual Studio 2013\Git\Vuokra_Kirjanpito\Login\obj\Debug\Login.Properties.Resources.resources
+e:\Users\Lasse\Documents\Visual Studio 2013\Git\Vuokra_Kirjanpito\Login\obj\Debug\Login.Resource1.resources
+e:\Users\Lasse\Documents\Visual Studio 2013\Git\Vuokra_Kirjanpito\Login\obj\Debug\Login.csproj.GenerateResource.Cache

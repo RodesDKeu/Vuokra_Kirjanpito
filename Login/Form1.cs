@@ -38,5 +38,10 @@ namespace Login
             oEmployee.LoginEvent += new LoginEventHandler(oEmployee_LoginEvent);
             oEmployee.Login(textBox1.Text, textBox2.Text);
         }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            this.Close();
+        }
     }
 }

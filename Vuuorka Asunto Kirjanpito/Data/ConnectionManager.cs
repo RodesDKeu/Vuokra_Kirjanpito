@@ -18,8 +18,7 @@ namespace Vuuorka_Asunto_Kirjanpito.Data
         public static SqlConnection GetConnection()
         {
             
-            string connectionString =
-                @"Data Source=(LocalDB)\v11.0;AttachDbFilename=e:\Users\Lasse\Documents\Visual Studio 2013\Projects\Vuuorka Asunto Kirjanpito\Vuuorka Asunto Kirjanpito\Data\1DATA.mdf;Integrated Security=True;connect Timeout=30";
+            const string connectionString = @"Data Source=(LocalDB)\v11.0;AttachDbFilename=e:\Users\Lasse\Documents\Visual Studio 2013\Projects\Vuuorka Asunto Kirjanpito\Vuuorka Asunto Kirjanpito\Data\1DATA.mdf;Integrated Security=True;connect Timeout=30";
             //path = System.IO.Path.GetDirectoryName(Application.ExecutablePath) + @"\Data\1DATA.mdf";
             SqlConnection connection = new SqlConnection(connectionString);
             connection.Open();

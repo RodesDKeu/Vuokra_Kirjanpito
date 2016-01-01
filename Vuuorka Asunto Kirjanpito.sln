@@ -9,6 +9,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "testing", "testing\testing.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Login", "Login\Login.csproj", "{6138B40F-47D6-4C8A-8F76-DF3AD80B7E96}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoginControl", "WindowsFormsControlLibrary2\LoginControl.csproj", "{19FEAE22-EDBE-4FC9-AB60-23FEF07C3157}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsFormsControlLibrary3", "WindowsFormsControlLibrary3\WindowsFormsControlLibrary3.csproj", "{E5EFD58E-2DB4-417A-983E-C92EC5F1D969}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +31,14 @@ Global
 		{6138B40F-47D6-4C8A-8F76-DF3AD80B7E96}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6138B40F-47D6-4C8A-8F76-DF3AD80B7E96}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6138B40F-47D6-4C8A-8F76-DF3AD80B7E96}.Release|Any CPU.Build.0 = Release|Any CPU
+		{19FEAE22-EDBE-4FC9-AB60-23FEF07C3157}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19FEAE22-EDBE-4FC9-AB60-23FEF07C3157}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19FEAE22-EDBE-4FC9-AB60-23FEF07C3157}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19FEAE22-EDBE-4FC9-AB60-23FEF07C3157}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E5EFD58E-2DB4-417A-983E-C92EC5F1D969}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E5EFD58E-2DB4-417A-983E-C92EC5F1D969}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E5EFD58E-2DB4-417A-983E-C92EC5F1D969}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E5EFD58E-2DB4-417A-983E-C92EC5F1D969}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
